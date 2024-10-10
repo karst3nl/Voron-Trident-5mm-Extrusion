@@ -19,4 +19,12 @@ Were i bought the extrusions:
 
 
 ## Notice
-my work is based on the CAD Model from the 19th December of 2023 (19.12.2023)
+**!** my work is based on the CAD Model from the 19th December of 2023 (19.12.2023) **!**
+
+
+
+
+## Original Sources
+- [Voron Trident GitHub](https://github.com/VoronDesign/Voron-Trident)
+- [Voron Trident Website](https://vorondesign.com/voron_trident)
+- [Voron GitHub](https://github.com/VoronDesign)
