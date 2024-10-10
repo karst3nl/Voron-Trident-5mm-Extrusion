@@ -4,7 +4,7 @@ modified all printed parts so they can be used with 5mm T-Slot extrusions
 
 
 ---
-living in Germany makes makes the "Voron" standard 6mm T-Slot extrusion hard to get.
+living in Germany makes the "Voron" standard 6mm T-Slot extrusion hard to get.
 
 So building a Voron is not that straight forward.
 
